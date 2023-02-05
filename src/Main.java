@@ -33,8 +33,6 @@ public class Main {
 //        System.out.println(rndTxt.substring(rndTxt.length()-3, rndTxt.length() ));
         System.out.println("labas".charAt(2));
         String starWars = "Star Wars: Episode "+ " ".repeat( (int) (Math.random() * 10))+((int) (Math.random() * 7)+1) + " - A New Hope";
-        System.out.println(starWars.);
+        System.out.println(starWars);
     }
 }
-git config --global user.email "sarunas.pusinskis@gmail.com"
-        git config --global user.name "sharas00"
